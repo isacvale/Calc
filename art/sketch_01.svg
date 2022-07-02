@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="640"
+   viewBox="0 0 338.66666 169.33334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="sketch_01.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1539">
+      <stop
+         style="stop-color:#d5b482;stop-opacity:1"
+         offset="0"
+         id="stop1535" />
+      <stop
+         style="stop-color:#f0efed;stop-opacity:1"
+         offset="1"
+         id="stop1537" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1575"
+       x="-0.12014869"
+       width="1.2402974"
+       y="-0.055486135"
+       height="1.1109723">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.7239709"
+         id="feGaussianBlur1577" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1601">
+      <rect
+         style="opacity:0.755738;fill:#999999;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1603"
+         width="74.387245"
+         height="161.07681"
+         x="-679.40936"
+         y="-19.073353"
+         rx="5.7711682"
+         ry="5.8810601" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1539"
+       id="radialGradient2392"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3598015,0,-5.1755334e-6,-1.7895969,-717.65444,148.87549)"
+       cx="-648.90515"
+       cy="13.224074"
+       fx="-648.90515"
+       fy="13.224074"
+       r="36.149021" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2784">
+      <path
+         id="path2786"
+         style="opacity:0.885623;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.423021;stroke-linecap:round"
+         d="m -465.05998,150.20995 c -5.45168,0 -9.84075,3.31861 -9.84075,7.44089 v 188.91869 c 0,4.12229 4.38907,7.44091 9.84075,7.44091 h 107.15882 c 5.45169,0 9.84075,-3.31862 9.84075,-7.44091 V 157.65084 c 0,-4.12228 -4.38906,-7.44089 -9.84075,-7.44089 z m 22.40637,21.36149 h 62.34608 c 3.17185,0 5.72524,2.62317 5.72524,5.88129 v 149.31491 c 0,3.25813 -2.55339,5.88132 -5.72524,5.88132 h -62.34608 c -3.17185,0 -5.72574,-2.62319 -5.72574,-5.88132 V 177.45273 c 0,-3.25812 2.55389,-5.88129 5.72574,-5.88129 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-430.18836"
+     inkscape:cy="1112.7196"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:window-width="1981"
+     inkscape:window-height="1643"
+     inkscape:window-x="963"
+     inkscape:window-y="146"
+     inkscape:window-maximized="0"
+     inkscape:guide-bbox="true"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2179"
+       transform="translate(-2.8909764,-1.9479486)">
+      <rect
+         style="fill:#fdfcfd;fill-opacity:1;stroke:#000000;stroke-width:0.167297;stroke-linecap:round"
+         id="rect2380"
+         width="338.49936"
+         height="169.16603"
+         x="2.9746249"
+         y="2.0315971"
+         rx="0"
+         ry="0" />
+      <circle
+         style="fill:#d5a97d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+         id="circle2382"
+         cx="122.3429"
+         cy="49.725449"
+         r="45.595058" />
+      <circle
+         style="fill:#fec503;fill-opacity:1;stroke:none;stroke-width:0.16409;stroke-linecap:round"
+         id="circle2384"
+         cx="214.54854"
+         cy="60.738571"
+         r="28.277317" />
+      <circle
+         style="fill:#fe5133;fill-opacity:1;stroke:none;stroke-width:0.128512;stroke-linecap:round"
+         id="circle2386"
+         cx="130.89253"
+         cy="152.24573"
+         r="22.14621" />
+      <circle
+         style="fill:#ffd541;fill-opacity:1;stroke:none;stroke-width:0.615151;stroke-linecap:round"
+         id="circle2388"
+         cx="194.63484"
+         cy="153.69853"
+         r="17.453196" />
+      <rect
+         style="opacity:0.885623;fill:url(#radialGradient2392);fill-opacity:1;stroke:none;stroke-width:0.286858;stroke-linecap:round"
+         id="rect2390"
+         width="73.797043"
+         height="161.07738"
+         x="136.25093"
+         y="6.251236"
+         rx="5.725379"
+         ry="5.8810811" />
+      <rect
+         style="opacity:0.707782;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:12;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1575)"
+         id="rect2394"
+         width="74.387245"
+         height="161.07681"
+         x="-679.40936"
+         y="-19.073353"
+         rx="5.7711682"
+         ry="5.8810601"
+         clip-path="url(#clipPath1601)"
+         transform="matrix(0.99206585,0,0,1.0000035,810.12692,25.180656)" />
+      <rect
+         style="fill:#cd9086;fill-opacity:1;stroke:none;stroke-width:0.166994;stroke-linecap:round"
+         id="rect2396"
+         width="1.2369212"
+         height="12.227696"
+         x="206.43941"
+         y="14.470434"
+         rx="0.6184606"
+         ry="0.6184606" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2398"
+         cx="151.16798"
+         cy="138.52678"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="151.12831"
+         y="139.76608"
+         id="text2402"><tspan
+           sodipodi:role="line"
+           id="tspan2400"
+           x="151.12831"
+           y="139.76608"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">1</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2404"
+         cx="151.16798"
+         cy="123.9677"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="151.12831"
+         y="125.207"
+         id="text2408"><tspan
+           sodipodi:role="line"
+           id="tspan2406"
+           x="151.12831"
+           y="125.207"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">4</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2410"
+         cx="151.16798"
+         cy="109.40863"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="151.12831"
+         y="110.64793"
+         id="text2414"><tspan
+           sodipodi:role="line"
+           id="tspan2412"
+           x="151.12831"
+           y="110.64793"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">7</tspan></text>
+      <g
+         id="g2426"
+         transform="translate(816.29575,-18.352635)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2416"
+           cx="-665.12775"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-665.67346"
+           y="114.44149"
+           id="text2420"><tspan
+             sodipodi:role="line"
+             id="tspan2418"
+             x="-665.67346"
+             y="114.44149"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">x</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-663.22028"
+           y="112.52081"
+           id="text2424"><tspan
+             sodipodi:role="line"
+             id="tspan2422"
+             x="-663.22028"
+             y="112.52081"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">y</tspan></text>
+      </g>
+      <g
+         id="g2434"
+         transform="translate(816.29575,-32.911709)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2428"
+           cx="-665.12775"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-665.18805"
+           y="114.23724"
+           id="text2432"><tspan
+             sodipodi:role="line"
+             id="tspan2430"
+             x="-665.18805"
+             y="114.23724"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">CLEAR</tspan></text>
+      </g>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2436"
+         cx="165.72707"
+         cy="138.52678"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="165.68739"
+         y="139.76608"
+         id="text2440"><tspan
+           sodipodi:role="line"
+           id="tspan2438"
+           x="165.68739"
+           y="139.76608"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">2</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2442"
+         cx="165.72707"
+         cy="123.9677"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="165.68739"
+         y="125.207"
+         id="text2446"><tspan
+           sodipodi:role="line"
+           id="tspan2444"
+           x="165.68739"
+           y="125.207"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">5</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2448"
+         cx="165.72707"
+         cy="109.40863"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="165.68739"
+         y="110.64793"
+         id="text2452"><tspan
+           sodipodi:role="line"
+           id="tspan2450"
+           x="165.68739"
+           y="110.64793"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">8</tspan></text>
+      <g
+         id="g2460"
+         transform="translate(815.54433,-18.352635)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2454"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-649.85693"
+           y="114.44149"
+           id="text2458"><tspan
+             sodipodi:role="line"
+             id="tspan2456"
+             x="-649.85693"
+             y="114.44149"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">√</tspan></text>
+      </g>
+      <g
+         id="g2468"
+         transform="translate(815.54433,-32.911709)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2462"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-649.77203"
+           y="114.40234"
+           id="text2466"><tspan
+             sodipodi:role="line"
+             id="tspan2464"
+             x="-649.77203"
+             y="114.40234"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">←</tspan></text>
+      </g>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2470"
+         cx="180.28615"
+         cy="138.52678"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="180.24648"
+         y="139.76608"
+         id="text2474"><tspan
+           sodipodi:role="line"
+           id="tspan2472"
+           x="180.24648"
+           y="139.76608"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">3</tspan></text>
+      <circle
+         style="fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2476"
+         cx="165.72707"
+         cy="153.08585"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="165.68739"
+         y="154.32515"
+         id="text2480"><tspan
+           sodipodi:role="line"
+           id="tspan2478"
+           x="165.68739"
+           y="154.32515"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">0</tspan></text>
+      <circle
+         style="fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2482"
+         cx="180.28615"
+         cy="153.08585"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="180.28615"
+         y="153.58829"
+         id="text2486"><tspan
+           sodipodi:role="line"
+           id="tspan2484"
+           x="180.28615"
+           y="153.58829"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">.</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2488"
+         cx="180.28615"
+         cy="123.9677"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="180.24648"
+         y="125.207"
+         id="text2492"><tspan
+           sodipodi:role="line"
+           id="tspan2490"
+           x="180.24648"
+           y="125.207"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">6</tspan></text>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:0.442829;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2494"
+         cx="180.28615"
+         cy="109.40863"
+         r="6.2212033" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="180.24648"
+         y="110.64793"
+         id="text2498"><tspan
+           sodipodi:role="line"
+           id="tspan2496"
+           x="180.24648"
+           y="110.64793"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">9</tspan></text>
+      <g
+         id="g2506"
+         transform="translate(830.10341,-18.352635)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2500"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-649.85693"
+           y="114.44149"
+           id="text2504"><tspan
+             sodipodi:role="line"
+             id="tspan2502"
+             x="-649.85693"
+             y="114.44149"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">%</tspan></text>
+      </g>
+      <g
+         id="g2514"
+         transform="translate(830.10341,-32.911709)">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2508"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+           x="-649.85693"
+           y="114.44149"
+           id="text2512"><tspan
+             sodipodi:role="line"
+             id="tspan2510"
+             x="-649.85693"
+             y="114.44149"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.96875px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">(</tspan></text>
+      </g>
+      <g
+         id="g2522"
+         transform="translate(844.6625,25.324589)"
+         style="stroke:#fe5133;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2516"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+           x="-649.81726"
+           y="114.77381"
+           id="text2520"><tspan
+             sodipodi:role="line"
+             id="tspan2518"
+             x="-649.81726"
+             y="114.77381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">+</tspan></text>
+      </g>
+      <g
+         id="g2530"
+         transform="translate(844.6625,10.765514)"
+         style="stroke:#fe5133;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2524"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+           x="-649.81726"
+           y="114.77381"
+           id="text2528"><tspan
+             sodipodi:role="line"
+             id="tspan2526"
+             x="-649.81726"
+             y="114.77381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">-</tspan></text>
+      </g>
+      <g
+         id="g2538"
+         transform="translate(844.6625,-3.7935597)"
+         style="stroke:#fe5133;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2532"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+           x="-649.81726"
+           y="114.77381"
+           id="text2536"><tspan
+             sodipodi:role="line"
+             id="tspan2534"
+             x="-649.81726"
+             y="114.77381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">×</tspan></text>
+      </g>
+      <g
+         id="g2546"
+         transform="translate(844.6625,-18.352635)"
+         style="stroke:#fe5133;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2540"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+           x="-649.81726"
+           y="114.77381"
+           id="text2544"><tspan
+             sodipodi:role="line"
+             id="tspan2542"
+             x="-649.81726"
+             y="114.77381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">÷</tspan></text>
+      </g>
+      <g
+         id="g2554"
+         transform="translate(844.6625,-32.911709)"
+         style="stroke:#fe5133;stroke-opacity:1">
+        <circle
+           style="fill:none;stroke:#fe5133;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2548"
+           cx="-649.81726"
+           cy="113.20219"
+           r="6.2212033" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+           x="-649.81726"
+           y="114.77381"
+           id="text2552"><tspan
+             sodipodi:role="line"
+             id="tspan2550"
+             x="-649.81726"
+             y="114.77381"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">)</tspan></text>
+      </g>
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2556"
+         width="1.5875"
+         height="5.0839548"
+         x="157.65376"
+         y="174.07594"
+         rx="0"
+         ry="0" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2558"
+         width="1.5875"
+         height="5.0839548"
+         x="172.21284"
+         y="174.07594"
+         rx="0"
+         ry="0" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2560"
+         width="1.5875"
+         height="5.0839548"
+         x="186.77193"
+         y="174.07594"
+         rx="0"
+         ry="0" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2562"
+         width="1.5875"
+         height="5.0839548"
+         x="101.33534"
+         y="-132.42799"
+         rx="0"
+         ry="0"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2564"
+         width="1.5875"
+         height="5.0839548"
+         x="86.77626"
+         y="-132.42799"
+         rx="0"
+         ry="0"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2566"
+         width="1.5875"
+         height="5.0839548"
+         x="115.89441"
+         y="-132.42799"
+         rx="0"
+         ry="0"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2568"
+         width="1.5875"
+         height="5.0839548"
+         x="130.45349"
+         y="-132.42799"
+         rx="0"
+         ry="0"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:0.707782;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.173927;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2570"
+         width="1.5875"
+         height="5.0839548"
+         x="145.01256"
+         y="-132.42799"
+         rx="0"
+         ry="0"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1"
+         x="194.84523"
+         y="155.65451"
+         id="text2574"><tspan
+           sodipodi:role="line"
+           id="tspan2572"
+           x="194.84523"
+           y="155.65451"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#d82d0f;fill-opacity:1;stroke:none;stroke-width:0.129853;stroke-opacity:1">=</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7625px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ab2912;fill-opacity:1;stroke-width:0.129853"
+         x="202.25496"
+         y="68.986778"
+         id="text2578"><tspan
+           sodipodi:role="line"
+           id="tspan2576"
+           x="202.25496"
+           y="68.986778"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.7625px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#ab2912;fill-opacity:1;stroke-width:0.129853">125+5-42/(5-3)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.05px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ab2912;fill-opacity:1;stroke-width:0.129853"
+         x="202.64546"
+         y="60.989342"
+         id="text2582"><tspan
+           sodipodi:role="line"
+           id="tspan2580"
+           x="202.64546"
+           y="60.989342"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.05px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#ab2912;fill-opacity:1;stroke-width:0.129853">109</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.525px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="202.17769"
+         y="43.451527"
+         id="text2586"><tspan
+           sodipodi:role="line"
+           id="tspan2584"
+           x="202.17769"
+           y="43.451527"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.525px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">55</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.525px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="202.17769"
+         y="34.006535"
+         id="text2590"><tspan
+           sodipodi:role="line"
+           id="tspan2588"
+           x="202.17769"
+           y="34.006535"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.525px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">34</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.525px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="202.17769"
+         y="24.761608"
+         id="text2594"><tspan
+           sodipodi:role="line"
+           id="tspan2592"
+           x="202.17769"
+           y="24.761608"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.525px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">21</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.525px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853"
+         x="202.17769"
+         y="15.929386"
+         id="text2598"><tspan
+           sodipodi:role="line"
+           id="tspan2596"
+           x="202.17769"
+           y="15.929386"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.525px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#d82d0f;fill-opacity:1;stroke-width:0.129853">13</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="147.2903"
+         y="14.505909"
+         id="text2602"><tspan
+           sodipodi:role="line"
+           id="tspan2600"
+           x="147.2903"
+           y="14.505909"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="148.57643"
+         y="14.505909"
+         id="text2606"><tspan
+           sodipodi:role="line"
+           id="tspan2604"
+           x="148.57643"
+           y="14.505909"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:start;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">8+5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="147.2903"
+         y="22.969879"
+         id="text2610"><tspan
+           sodipodi:role="line"
+           id="tspan2608"
+           x="147.2903"
+           y="22.969879"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">B</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="148.46718"
+         y="22.969879"
+         id="text2614"><tspan
+           sodipodi:role="line"
+           id="tspan2612"
+           x="148.46718"
+           y="22.969879"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:start;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">13+8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="147.2903"
+         y="32.248714"
+         id="text2618"><tspan
+           sodipodi:role="line"
+           id="tspan2616"
+           x="147.2903"
+           y="32.248714"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="148.59462"
+         y="32.248714"
+         id="text2622"><tspan
+           sodipodi:role="line"
+           id="tspan2620"
+           x="148.59462"
+           y="32.248714"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:start;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">21+13</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="147.2903"
+         y="41.663403"
+         id="text2626"><tspan
+           sodipodi:role="line"
+           id="tspan2624"
+           x="147.2903"
+           y="41.663403"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:end;text-anchor:end;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.55302px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659"
+         x="148.64015"
+         y="41.663403"
+         id="text2630"><tspan
+           sodipodi:role="line"
+           id="tspan2628"
+           x="148.64015"
+           y="41.663403"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55302px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:start;text-anchor:start;fill:#cd9086;fill-opacity:1;stroke-width:0.139659">34+21</tspan></text>
+    </g>
+  </g>
+</svg>
