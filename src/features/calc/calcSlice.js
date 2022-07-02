@@ -11,6 +11,6 @@ export const calcSlice = createSlice({
     }
 })
 
-export { addChar, removeChar } = calcSlice.actions
+export const { addChar, removeChar } = calcSlice.actions
 
 export default calcSlice.reducer
