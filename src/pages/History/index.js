@@ -1,4 +1,4 @@
-import Navigation from '../navigation/Navigation'
+import { Navigation } from '../../core'
 
 export default function History() {
   return <main>
