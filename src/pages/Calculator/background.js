@@ -26,8 +26,7 @@ export function Background(props) {
     <circle cx="78" cy="150.3" r="22.1"
       style={{ fill: colors[props.mode][1][0] }}/>
     <circle cx="139.9" cy="152.3" r="16.9"
-      style={{
-        fill: colors[props.mode][1][0] }}/>
+      style={{ fill: colors[props.mode][1][0] }}/>
   </StyledSvg>
 }
 
