@@ -1,3 +1,4 @@
+import React from 'react'
 import { Navigation } from '../../core'
 
 export default function Dev() {
