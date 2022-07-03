@@ -1,13 +1,29 @@
 import React from 'react'
-import Navigation from './navigation/Navigation'
+import { Provider } from 'react-redux'
+import { 
+  BrowserRouter,
+  Routes,
+  Route
+} from 'react-router-dom'
+import { store } from './app/store'
+import Calculator from './pages/Calculator'
+import Dev from './pages/Dev'
+import History from './pages/History'
 import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <Navigation />
-      <div><h1>Welcome to the Home Page</h1></div>
-    </div>
+    <React.StrictMode>
+        <Provider store={store}>
+          <BrowserRouter>
+            <Routes>
+              <Route path="/" element={<Calculator />} />
+              <Route path="dev" element={<Dev />} />
+              <Route path="history" element={<History />} />
+            </Routes>
+          </BrowserRouter>
+        </Provider>
+      </React.StrictMode>
   )
 }
 
