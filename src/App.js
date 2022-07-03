@@ -6,9 +6,7 @@ import {
   Route
 } from 'react-router-dom'
 import { store } from './app/store'
-import Calculator from './pages/Calculator'
-import Dev from './pages/Dev'
-import History from './pages/History'
+import { Calculator, Dev, History } from './pages'
 import './App.css'
 
 function App() {
