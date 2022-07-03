@@ -1,46 +1,62 @@
-# Getting Started with Create React App and Redux
+# Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This app implements a simple calculator. This is an exercise in design and development, using React, Redux and CSS in JS.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+The app contains three pages:
 
-### `npm start`
+### Calculator (home page)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Composed of a thin strip (aprox. 280px) with variable height. It is composed of different section.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Keys (tabbable)
 
-### `npm test`
+The numbers and opperations dispatches write commands to the store. The **clear** key dispatches a delete all command, and the **back** key dispatches a delete command for the last digit. The **save** key register dispatches a save command with the current expression, so it can appear in the Scope and in the History pages.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Keys group is accessible by tabbing. In fact, they are divided into two distinct tabbable groups, one containing 0-9, period and basic arythmetic operations, and another containing the other keys. The ARROWS can be used to select a specific key, including moveing from one group to the other (and even to other components, as scope and navigation). Once a key is focused, it can be activated by the SPACEBAR or ENTER keys. The ESC key activates the clear key.
 
-### `npm run build`
+#### Visor (non-tabbable)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It displays the current expression, fed from the store, and the calculated sum. Calculations are made in real time. It should clearly display (through colors and visually) when the expression is malformed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The visor is not interactive and non tabbable. Clicking over it **does not allow** the user to set a cursor position for editing the expression. That would create a complexity that is not in the main focus of this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+When tabbed to the number group, 5 is selected by default. When tabbing to the secondary group, save is selected by default.
 
-### `npm run eject`
+#### Scope (tabbable)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This is a scrollable list of precomputated values and operations. It holds 26 values, each associated with a letter, so typing A-Z will recall the value inside the current expression.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The items in scope are fed from the store (configurable in the History page). Each expression saved in the current session automatically shows in scope. Each item displays its shortcut letter, the expression (or its label) and the computed result.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The Scope is the stretchable part of the calculator, adapting to the window's height.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Navigation
 
-## Learn More
+Contains three links, one for the calculator (main) page, one for dev, and one for history. It also indicates the current active page.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Dev (page)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Includes a small description of the projects, technologies, and people involved.
+
+### History (page)
+
+This pages allows the user to select what preselected values appear in the scope of the calculator.
+
+It is a list of item containing:
+- a checkbox selector;
+- an input with the original expression, which can be edited to give it a label instead of the expression;
+- the resulting value;
+- a delete button to remove the value from History.
+
+History should persist in accross sections in the browser memory.
+
+Some initial values, such as pi, are available and not selected by default. Their labels can't be changed and they cannot be deleted.
+
+## Dev Guidelines
+
+- Testing should only cover the interfaces of components, not its implementations. Too many tests is worse than none at all.
+- Folders representing components should be capitalized, with a index.js default-exporting the component.
+- Folders with a collection of components should not be capitalized. The should have an index.js exporting all components in the folder.
+- Use react-proptypes to check types of arguments used inside the component. It's ok to let props go through without defining types (cacthing them in a `...rest` param and passing them down to children.)
