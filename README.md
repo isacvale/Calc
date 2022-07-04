@@ -8,13 +8,13 @@ The app contains three pages:
 
 ### Calculator (home page)
 
-Composed of a thin strip (aprox. 280px) with variable height. It is composed of different section.
+Composed of a thin strip (aprox. 280px) with variable height. It is composed of different sections.
 
 #### Keys (tabbable)
 
 The numbers and opperations dispatches write commands to the store. The **clear** key dispatches a delete all command, and the **back** key dispatches a delete command for the last digit. The **save** key register dispatches a save command with the current expression, so it can appear in the Scope and in the History pages.
 
-The Keys group is accessible by tabbing. In fact, they are divided into two distinct tabbable groups, one containing 0-9, period and basic arythmetic operations, and another containing the other keys. The ARROWS can be used to select a specific key, including moveing from one group to the other (and even to other components, as scope and navigation). Once a key is focused, it can be activated by the SPACEBAR or ENTER keys. The ESC key activates the clear key.
+The Keys group is accessible by tabbing. In fact, they are divided into two distinct tabbable groups, one containing 0-9, period and basic arythmetic operations, and another containing the other keys. The ARROWS can be used to select a specific key, including moving from one group to the other (and even to other components, as scope and navigation). Once a key is focused, it can be activated by the SPACEBAR or ENTER keys. The ESC key activates the clear key.
 
 #### Visor (non-tabbable)
 
@@ -44,7 +44,7 @@ Includes a small description of the projects, technologies, and people involved.
 
 This pages allows the user to select what preselected values appear in the scope of the calculator.
 
-It is a list of item containing:
+It is a list of items containing:
 - a checkbox selector;
 - an input with the original expression, which can be edited to give it a label instead of the expression;
 - the resulting value;
@@ -58,5 +58,5 @@ Some initial values, such as pi, are available and not selected by default. Thei
 
 - Testing should only cover the interfaces of components, not its implementations. Too many tests is worse than none at all.
 - Folders representing components should be capitalized, with a index.js default-exporting the component.
-- Folders with a collection of components should not be capitalized. The should have an index.js exporting all components in the folder.
+- Folders with a collection of components should not be capitalized. They should have an index.js exporting all components in the folder.
 - Use react-proptypes to check types of arguments used inside the component. It's ok to let props go through without defining types (cacthing them in a `...rest` param and passing them down to children.)
