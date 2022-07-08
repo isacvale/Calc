@@ -5,14 +5,23 @@ import {
   Routes,
   Route
 } from 'react-router-dom'
+import { ThemeProvider } from '@emotion/react'
+
 import { store } from './app/store'
+import theme from './theme'
 import { Calculator, Dev, History } from './pages'
 import './App.css'
 
 function App() {
+  const [mode, setMode] = React.useState('light')
+  const toggleMode = () => {
+    setMode(mode === 'light' ? 'dark' : 'light')
+  }
+
   return (
     <React.StrictMode>
-        <Provider store={store}>
+      <Provider store={store}>
+        <ThemeProvider theme={theme(mode)}>
           <BrowserRouter>
             <Routes>
               <Route path="/" element={<Calculator />} />
@@ -20,8 +29,9 @@ function App() {
               <Route path="history" element={<History />} />
             </Routes>
           </BrowserRouter>
-        </Provider>
-      </React.StrictMode>
+        </ThemeProvider>
+      </Provider>
+    </React.StrictMode>
   )
 }
 
