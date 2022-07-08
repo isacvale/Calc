@@ -12,16 +12,16 @@ import './App.css'
 function App() {
   return (
     <React.StrictMode>
-        <Provider store={store}>
-          <BrowserRouter>
-            <Routes>
-              <Route path="/" element={<Calculator />} />
-              <Route path="dev" element={<Dev />} />
-              <Route path="history" element={<History />} />
-            </Routes>
-          </BrowserRouter>
-        </Provider>
-      </React.StrictMode>
+      <Provider store={store}>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Calculator />} />
+            <Route path="dev" element={<Dev />} />
+            <Route path="history" element={<History />} />
+          </Routes>
+        </BrowserRouter>
+      </Provider>
+    </React.StrictMode>
   )
 }
 
