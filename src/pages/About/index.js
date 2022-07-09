@@ -1,8 +1,8 @@
 import { Navigation } from '../../core'
 
-export default function Dev() {
+export default function About() {
   return <main>
     <Navigation />
-    <h1>Dev</h1>
+    <h1>About</h1>
   </main>
 }
