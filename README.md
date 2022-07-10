@@ -36,7 +36,7 @@ The Scope is the stretchable part of the calculator, adapting to the window's he
 
 Contains three links, one for the calculator (main) page, one for dev, and one for history. It also indicates the current active page.
 
-### Dev (page)
+### About (page)
 
 Includes a small description of the projects, technologies, and people involved.
 

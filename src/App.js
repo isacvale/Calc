@@ -1,6 +1,6 @@
 import React from 'react'
 import { Provider } from 'react-redux'
-import { 
+import {
   BrowserRouter,
   Routes,
   Route
@@ -9,7 +9,7 @@ import { ThemeProvider } from '@emotion/react'
 
 import { store } from './app/store'
 import theme from './theme'
-import { Calculator, Dev, History } from './pages'
+import { Calculator, About, History } from './pages'
 import './App.css'
 
 function App() {
@@ -17,7 +17,6 @@ function App() {
   const toggleMode = () => {
     setMode(mode === 'light' ? 'dark' : 'light')
   }
-
   return (
     <React.StrictMode>
       <Provider store={store}>
@@ -25,7 +24,7 @@ function App() {
           <BrowserRouter>
             <Routes>
               <Route path="/" element={<Calculator />} />
-              <Route path="dev" element={<Dev />} />
+              <Route path="about" element={<About />} />
               <Route path="history" element={<History />} />
             </Routes>
           </BrowserRouter>
