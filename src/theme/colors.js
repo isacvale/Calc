@@ -20,11 +20,11 @@ const lightTheme = {
 }
 
 const darkTheme  = {
-    mainType: colorPalette.darkRed,
-    secondaryType: colorPalette.red,
-    accentType: colorPalette.beige,
-    primary: colorPalette.orange,
-    secondary: colorPalette.yellow,
+    mainType: colorPalette.white,
+    secondaryType: colorPalette.gray,
+    accentType: colorPalette.lightBlue,
+    primary: colorPalette.darkGray,
+    secondary: colorPalette.black,
 }
 
 const colors = mode => {
